@@ -1,0 +1,12 @@
+python3 main.py terrain.png mpp.txt red.txt spring redSpring.png
+python3 main.py terrain.png mpp.txt red.txt summer redSummer.png
+python3 main.py terrain.png mpp.txt red.txt fall redFall.png
+python3 main.py terrain.png mpp.txt red.txt winter redWinter.png
+python3 main.py terrain.png mpp.txt brown.txt spring brownSpring.png
+python3 main.py terrain.png mpp.txt brown.txt summer brownSummer.png
+python3 main.py terrain.png mpp.txt brown.txt fall brownFall.png
+python3 main.py terrain.png mpp.txt brown.txt winter brownWinter.png
+python3 main.py terrain.png mpp.txt white.txt spring whiteSpring.png
+python3 main.py terrain.png mpp.txt white.txt summer whiteSummer.png
+python3 main.py terrain.png mpp.txt white.txt fall whiteFall.png
+python3 main.py terrain.png mpp.txt white.txt winter whiteWinter.png
